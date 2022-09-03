@@ -20,6 +20,8 @@ You can use multiple ways to realise speech recognition. You can directly use th
 
 The rest of involved Python libraries should be installed while enabling Google speech-to-text API.
 
+You do *not* need ROS enabled.
+
 ### The last steps to run the project
 Since you have set the environment, you can run the project by:
 1. Get the robot's IP address by pressing the chest button. Put the IP address in the 'main.py' file.
